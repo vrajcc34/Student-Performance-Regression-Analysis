@@ -28,13 +28,3 @@ The dataset includes 10,000 student records with:
 ## Tools
 - SAS (regression modeling and diagnostics)
 - Excel (data handling and visualization)
-
-## Files
-- `regression_analysis.sas` → analysis code  
-- `student_performance_report.pdf` → full report :contentReference[oaicite:0]{index=0}  
-- `StudentPerformance.csv` → dataset  
-
-## How to Run
-1. Open SAS  
-2. Load dataset  
-3. Run `regression_analysis.sas`  
