@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_univariate_histogram",
+  "source_file": "regression_analysis.sas",
+  "source_blob_sha": "89af7529147b4873487a47e2ef25bb96746367de",
+  "source_commit": "26b37f6c1d5180e2b10d7c254f79c28c36649e64",
+  "notes": "Distribution analysis of the response variable (their lines 21-26): PROC UNIVARIATE with a normal-overlay histogram on PerformanceIndex."
+}

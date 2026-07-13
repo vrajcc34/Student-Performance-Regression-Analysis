@@ -1,0 +1,59 @@
+                                            Histogram for Performance Index                                             
+
+                                                The UNIVARIATE Procedure
+                                              Variable:  PerformanceIndex
+
+                                                        Moments
+
+N                                 40    Sum Weights                       40
+Mean                       58.600000    Sum Observations         2344.000000
+Std Deviation              17.048648    Variance                  290.656410
+Skewness                   -0.238378    Kurtosis                   -0.928957
+Uncorrected SS         148694.000000    Corrected SS            11335.600000
+Coeff Variation            29.093257    Std Error Mean              2.695628
+
+          Basic Statistical Measures          
+
+Location             Variability              
+--------  ---------  -------------  ----------
+Mean      58.600000  Std Deviation   17.048648
+Median    63.000000  Variance       290.656410
+Mode      74.000000  Range           64.000000
+
+Quantiles (Definition 5)
+
+Quantile     Estimate
+----------  ---------
+0% Min      27.000000
+1%          27.000000
+5%          31.000000
+10%         34.000000
+25% Q1      42.500000
+50% Median  63.000000
+75% Q3      70.500000
+90%         78.500000
+95%         84.500000
+99%         91.000000
+100% Max    91.000000
+
+          Extreme Observations          
+
+Lowest               Highest            
+--------  ---------  --------  ---------
+Value     27.000000  Value     74.000000
+Value     30.000000  Value     83.000000
+Value     32.000000  Value     84.000000
+Value     33.000000  Value     85.000000
+Value     35.000000  Value     91.000000
+
+
+
+
+         Tests for Location          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Student's t         21.738904713         0
+Sign                       20  0.000000001
+Signed Rank               820  0.000000036
+

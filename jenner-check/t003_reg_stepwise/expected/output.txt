@@ -1,0 +1,35 @@
+                                    Stepwise Selection Method for Performance Index                                     
+
+                                                   The REG Procedure                                                    
+                                                     Model: MODEL1                                                      
+                                          Dependent Variable: PerformanceIndex                                          
+
+Source                 DF  Sum of Squares  Mean Square   F Value    Pr > F
+---------------  --------  --------------  -----------  --------  --------
+Model                   4     11203.52264   2800.88066    742.22    <.0001
+Error                  35       132.07736      3.77364                    
+Corrected Total        39     11335.60000                                 
+
+Root MSE           1.94259    R-Square            0.9883
+Dependent Mean      58.60000    Adj R-Sq            0.9870
+Coeff Var          3.31499
+
+                                 Parameter Estimates                                  
+
+Variable                             DF   Estimate  Standard Error   t Value  Pr > |t|
+-----------------------------  --------  ---------  --------------  --------  --------
+Intercept                             1  -35.22339         1.99628    -17.64    <.0001
+PreviousScores                        1    1.01096         0.01964     51.48    <.0001
+HoursStudied                          1    3.02616         0.13074     23.15    <.0001
+SampleQuestionPapersPracticed         1    0.39390         0.12691      3.10    0.0038
+SleepHours                            1    0.46858         0.17273      2.71    0.0103
+
+                  Summary of Stepwise Selection Selection                  
+
+    Step  Variable Entered/Removed  Variable                         Pr > F
+--------  ------------------------  -----------------------------  --------
+       1  Entered                   previousscores                   <.0001
+       2  Entered                   hoursstudied                     <.0001
+       3  Entered                   samplequestionpaperspracticed    0.0131
+       4  Entered                   sleephours                       0.0103
+

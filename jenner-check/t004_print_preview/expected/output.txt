@@ -1,0 +1,46 @@
+                                          Preview of Student Performance Data                                           
+
+
+  Obs  ExtracurricularActivities  HoursStudied  PreviousScores  SleepHours  SampleQuestionPapersPracticed  PerformanceIndex  Extra
+-----  -------------------------  ------------  --------------  ----------  -----------------------------  ----------------  -----
+    1  Yes                                   7              99           9                              1                91      1
+    2  No                                    4              82           4                              2                65      0
+    3  Yes                                   8              51           7                              2                45      1
+    4  Yes                                   5              52           5                              2                36      1
+    5  No                                    7              75           8                              5                66      0
+    6  No                                    3              78           9                              6                61      0
+    7  Yes                                   7              73           5                              6                63      1
+    8  Yes                                   8              45           4                              6                42      1
+    9  No                                    5              77           8                              2                61      0
+   10  No                                    4              89           4                              0                69      0
+   11  No                                    8              91           4                              5                84      0
+   12  No                                    8              79           6                              2                73      0
+   13  No                                    3              47           9                              2                27      0
+   14  No                                    6              47           4                              2                33      0
+   15  No                                    5              79           7                              8                68      0
+   16  No                                    2              72           4                              3                43      0
+   17  Yes                                   8              73           8                              4                67      1
+   18  Yes                                   6              83           7                              2                70      1
+   19  Yes                                   2              54           4                              9                30      1
+   20  No                                    5              75           7                              0                63      0
+   21  Yes                                   1              99           4                              3                71      1
+   22  No                                    6              96           9                              0                85      0
+   23  Yes                                   9              74           7                              6                73      1
+   24  No                                    1              85           5                              6                57      0
+   25  No                                    3              61           6                              3                35      0
+   26  Yes                                   7              62           7                              4                49      1
+   27  No                                    4              79           8                              9                66      0
+   28  Yes                                   9              84           6                              6                83      1
+   29  Yes                                   3              94           6                              5                74      1
+   30  Yes                                   5              90           4                              3                74      1
+   31  Yes                                   3              61           7                              3                39      1
+   32  Yes                                   7              44           9                              1                36      1
+   33  Yes                                   5              70           6                              9                58      1
+   34  Yes                                   9              52           8                              1                47      1
+   35  Yes                                   7              67           9                              3                60      1
+   36  Yes                                   2              97           9                              4                74      1
+   37  No                                    4              59           8                              3                42      0
+   38  No                                    9              72           8                              2                68      0
+   39  Yes                                   2              55           4                              1                32      1
+   40  No                                    9              68           5                              3                64      0
+

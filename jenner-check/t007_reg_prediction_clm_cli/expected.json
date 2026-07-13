@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-13T03:32:42.519882+00:00",
+  "_captured_run_id": "r_2dd025f237a64792bdfaf99ef842665c",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 40 rows from DATALINES.",
+    "NOTE: PROC REG data=prediction"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

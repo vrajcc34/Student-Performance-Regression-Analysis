@@ -1,0 +1,14 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA student
+
+NOTE: Processing inline DATALINES (40 lines)
+
+NOTE: Read 40 rows from DATALINES.
+NOTE: Wrote student (40 rows, 7 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: Option TITLE changed to Preview of Student Performance Data.
+NOTE: PROC PRINT data=student
+
+NOTE: PROC PRINT completed: 40 observations printed, 7 variables

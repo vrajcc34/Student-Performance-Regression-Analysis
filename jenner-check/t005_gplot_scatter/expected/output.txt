@@ -1,0 +1,56 @@
+                               GPLOTS for Performance Index and all independent variables                               
+
+PROC GPLOT Output
+Data: student
+
+Variables: ExtracurricularActivities, HoursStudied, PreviousScores, SleepHours, SampleQuestionPapersPracticed, PerformanceIndex, Extra
+
+ExtracurricularActivities  HoursStudied  PreviousScores  SleepHours  SampleQuestionPapersPracticed  PerformanceIndex       Extra
+-------------------------  ------------  --------------  ----------  -----------------------------  ----------------  ----------
+                      Yes             7              99           9                              1                91           1
+                       No             4              82           4                              2                65           0
+                      Yes             8              51           7                              2                45           1
+                      Yes             5              52           5                              2                36           1
+                       No             7              75           8                              5                66           0
+                       No             3              78           9                              6                61           0
+                      Yes             7              73           5                              6                63           1
+                      Yes             8              45           4                              6                42           1
+                       No             5              77           8                              2                61           0
+                       No             4              89           4                              0                69           0
+                       No             8              91           4                              5                84           0
+                       No             8              79           6                              2                73           0
+                       No             3              47           9                              2                27           0
+                       No             6              47           4                              2                33           0
+                       No             5              79           7                              8                68           0
+                       No             2              72           4                              3                43           0
+                      Yes             8              73           8                              4                67           1
+                      Yes             6              83           7                              2                70           1
+                      Yes             2              54           4                              9                30           1
+                       No             5              75           7                              0                63           0
+                      Yes             1              99           4                              3                71           1
+                       No             6              96           9                              0                85           0
+                      Yes             9              74           7                              6                73           1
+                       No             1              85           5                              6                57           0
+                       No             3              61           6                              3                35           0
+                      Yes             7              62           7                              4                49           1
+                       No             4              79           8                              9                66           0
+                      Yes             9              84           6                              6                83           1
+                      Yes             3              94           6                              5                74           1
+                      Yes             5              90           4                              3                74           1
+                      Yes             3              61           7                              3                39           1
+                      Yes             7              44           9                              1                36           1
+                      Yes             5              70           6                              9                58           1
+                      Yes             9              52           8                              1                47           1
+                      Yes             7              67           9                              3                60           1
+                      Yes             2              97           9                              4                74           1
+                       No             4              59           8                              3                42           0
+                       No             9              72           8                              2                68           0
+                      Yes             2              55           4                              1                32           1
+                       No             9              68           5                              3                64           0
+
+HoursStudied: N=40, Min=1, Max=9, Mean=5.4000, Sum=216
+PreviousScores: N=40, Min=44, Max=99, Mean=72.2500, Sum=2890
+SleepHours: N=40, Min=4, Max=9, Mean=6.4500, Sum=258
+SampleQuestionPapersPracticed: N=40, Min=0, Max=9, Mean=3.6000, Sum=144
+PerformanceIndex: N=40, Min=27, Max=91, Mean=58.6000, Sum=2344
+Extra: N=40, Min=0, Max=1, Mean=0.5250, Sum=21
