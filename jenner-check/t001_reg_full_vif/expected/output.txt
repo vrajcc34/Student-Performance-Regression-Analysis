@@ -1,0 +1,27 @@
+                                  Full Regression Model for Performance Index with VIF                                  
+
+                                                   The REG Procedure                                                    
+                                                     Model: MODEL1                                                      
+                                          Dependent Variable: PerformanceIndex                                          
+
+Source                 DF  Sum of Squares  Mean Square   F Value    Pr > F
+---------------  --------  --------------  -----------  --------  --------
+Model                   5     11203.52605   2240.70521    576.83    <.0001
+Error                  34       132.07395      3.88453                    
+Corrected Total        39     11335.60000                                 
+
+Root MSE           1.97092    R-Square            0.9883
+Dependent Mean      58.60000    Adj R-Sq            0.9866
+Coeff Var          3.36335
+
+                                                 Parameter Estimates                                                 
+
+Variable                             DF   Estimate  Standard Error   t Value  Pr > |t|  Tolerance  Variance Inflation
+-----------------------------  --------  ---------  --------------  --------  --------  ---------  ------------------
+Intercept                             1  -35.23407         2.05716    -17.13    <.0001          .                   .
+HoursStudied                          1    3.02563         0.13385     22.60    <.0001    0.91255             1.09583
+PreviousScores                        1    1.01102         0.02004     50.45    <.0001    0.96224             1.03925
+SleepHours                            1    0.46871         0.17530      2.67    0.0114    0.94408             1.05923
+SampleQuestionPapersPracticed         1    0.39341         0.12981      3.03    0.0046    0.96209             1.03941
+Extra                                 1    0.01894         0.63878      0.03    0.9765    0.95437             1.04781
+

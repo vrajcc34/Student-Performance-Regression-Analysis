@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_boxplot_extra",
+  "source_file": "regression_analysis.sas",
+  "source_blob_sha": "89af7529147b4873487a47e2ef25bb96746367de",
+  "source_commit": "26b37f6c1d5180e2b10d7c254f79c28c36649e64",
+  "notes": "Group comparison (their lines 34-42): PROC SORT by the Extra dummy then PROC BOXPLOT of PerformanceIndex across extracurricular participation."
+}

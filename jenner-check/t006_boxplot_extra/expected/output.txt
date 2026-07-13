@@ -1,0 +1,13 @@
+                              Boxplot for Performance Index by Extracurricular Activities                               
+
+                              Boxplot for Performance Index by Extracurricular Activities
+
+                                                 The BOXPLOT Procedure
+
+Skeletal Plots for PerformanceIndex
+
+Extra                 N          Min           Q1       Median           Q3          Max         Mean      Std Dev
+------------------------------------------------------------------------------------------------------------
+0                    19        27.00        50.00        64.00        68.00        85.00        59.47        16.27
+1                    21        30.00        42.00        60.00        73.00        91.00        57.81        18.09
+------------------------------------------------------------------------------------------------------------

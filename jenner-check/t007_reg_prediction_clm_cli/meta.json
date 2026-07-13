@@ -1,0 +1,7 @@
+{
+  "bundle": "t007_reg_prediction_clm_cli",
+  "source_file": "regression_analysis.sas",
+  "source_blob_sha": "89af7529147b4873487a47e2ef25bb96746367de",
+  "source_commit": "26b37f6c1d5180e2b10d7c254f79c28c36649e64",
+  "notes": "Prediction on a new observation (their lines 70-92): stack a new-value row onto the data, then PROC REG with P/CLM/CLI for fitted values and confidence/prediction intervals."
+}

@@ -1,0 +1,38 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA student
+
+NOTE: Processing inline DATALINES (40 lines)
+
+NOTE: Read 40 rows from DATALINES.
+NOTE: Wrote student (40 rows, 7 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: Option TITLE changed to Compute Predictions for Performance Index.
+NOTE: DATA pred
+
+NOTE: Processing inline DATALINES (1 lines)
+
+NOTE: Read 1 rows from DATALINES.
+NOTE: Wrote pred (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA prediction
+
+
+NOTE: Read 1 rows from pred.
+NOTE: Read 41 rows from student.
+NOTE: Wrote prediction (41 rows, 7 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC REG data=prediction
+
+NOTE: PROC REG: processed 1 job(s) in batch
+NOTE: ODS plot written: reg_residuals_vs_predicted.spec.json
+NOTE: ODS plot written: reg_residual_histogram_panel.spec.json
+NOTE: ODS plot written: reg_residuals_vs_obs_order.spec.json
+NOTE: ODS plot written: reg_qq_plot.spec.json
+NOTE: ODS plot written: reg_cooksd.spec.json
+NOTE: PROC REG ODS Graphics generated.
